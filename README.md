@@ -1,16 +1,7 @@
 # mi_card_flutterr
 
-A new Flutter project.
+This app is made while im learning Flutter.
 
-## Getting Started
+Its just a contact card like, which looks like this: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/109692895/194928170-3afb029e-818f-4129-a913-990670b89157.png)
